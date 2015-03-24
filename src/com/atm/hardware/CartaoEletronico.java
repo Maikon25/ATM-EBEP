@@ -3,7 +3,7 @@ package com.atm.hardware;
 import com.atm.software.ContaCorrente;
 
 public class CartaoEletronico {
-	
+	//Foda de foder Paaii
 	private String numeroDoCartao;
 	private ContaCorrente conta;
 	
@@ -25,7 +25,7 @@ public class CartaoEletronico {
 	public ContaCorrente getConta() {
 		return conta;
 	}
-	public void setConta(ContaCorrente conta) {
+	public void setConta(ContaCorrente conta) { 
 		this.conta = conta;
 	}
 	
